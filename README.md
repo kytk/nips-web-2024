@@ -39,7 +39,7 @@
 
 - 以下からLin4Neuroをダウンロードしてください。13GBありますのでダウンロードには約1-2時間かかります。
 
-    - [L4N-2204-NIPS-20240423.ovaのダウンロード](https://www.dropbox.com/t/rebzKrqsgGvj6gZ7){:target="_blank"} 
+    - [L4N-2204-NIPS-20240423.ovaのダウンロード](https://www.nemotos.net/l4n-nips/L4N-2204-NIPS-20240423.ova){:target="_blank"} 
 
 ### B. VirtualBox 7.0以降 のインストール (所要時間約10分)
 
